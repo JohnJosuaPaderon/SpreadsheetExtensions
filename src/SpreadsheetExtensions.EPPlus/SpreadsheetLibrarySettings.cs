@@ -9,7 +9,7 @@ namespace SpreadsheetExtensions
         public int MinColumn { get; }
         public int MaxColumn { get; }
 
-        public SpreadsheetLibrarySettings()
+        private SpreadsheetLibrarySettings()
         {
             MinRow = 1;
             MinColumn = 1;
