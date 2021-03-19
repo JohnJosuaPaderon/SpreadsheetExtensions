@@ -2,6 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>John Josua Paderon</Authors>
+    <Company>SpreadsheetExtensions</Company>
+    <Copyright>Copyright (c) 2021 John Josua Paderon</Copyright>
   </PropertyGroup>
 
 </Project>
