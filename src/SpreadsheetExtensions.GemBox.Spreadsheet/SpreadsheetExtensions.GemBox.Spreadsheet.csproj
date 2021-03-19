@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>SpreadsheetExtensions</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="GemBox.Spreadsheet" Version="47.0.1129" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SpreadsheetExtensions\SpreadsheetExtensions.csproj" />
+  </ItemGroup>
+
+</Project>
